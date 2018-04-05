@@ -9,4 +9,7 @@ jobs:
               imageTag: master
           script:
          
-            -
+            - aws --version
+            - eb --version
+            - az --version
+            - jfrog --version
