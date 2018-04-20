@@ -9,7 +9,7 @@ jobs:
               imageTag: master
           script:
             
-             - java --version  
+             - java -version  
              - nodejs --version
              - yarn -version
              - source /usr/local/rvm/scripts/rvm
