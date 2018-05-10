@@ -37,4 +37,5 @@ jobs:
              - packer --version
              - jq --version
              - terraform --version
+             - openstack --version
             
