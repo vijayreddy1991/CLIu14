@@ -19,7 +19,6 @@ jobs:
              - virtualenv --version
              - git --version
              - aws --version
-             - eb --version
              - az --version
              - jfrog --version
              - gcloud version
