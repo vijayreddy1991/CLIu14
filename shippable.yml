@@ -1,5 +1,5 @@
 jobs:
-  - name: cli-test
+  - name: u14-testing
     type: runSh
     steps:
       - TASK:
